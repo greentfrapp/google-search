@@ -1,0 +1,8 @@
+description: Return search results from Google or Google News
+
+tools:
+- search.google_search
+
+env_vars:
+- GEMINI_API_KEY:
+  - 'search.google_search'
